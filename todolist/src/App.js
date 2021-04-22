@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Javascript is the best! Yay.
+          Javascript is the best! Yays test
           <code> Here's some stuff in code brackets</code>
+          <p>test</p>
         </p>
         <a
           className="App-link"
