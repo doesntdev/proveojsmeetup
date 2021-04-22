@@ -1,0 +1,19 @@
+{
+  "name": "proveojsmeetup",
+  "description": "Practice React Project for Proveo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onrul/proveojsmeetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onrul/proveojsmeetup/issues"
+  },
+  "homepage": "https://github.com/onrul/proveojsmeetup#readme"
+}
